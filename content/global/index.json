@@ -1,24 +1,20 @@
 {
   "header": {
     "icon": {
-      "name": "Tina",
-      "color": "orange",
+      "name": "BiCodeAlt",
+      "color": "white",
       "style": "float"
     },
-    "name": "Tina Starter",
+    "name": "/andrizan",
     "color": "default",
     "nav": [
       {
-        "href": "",
-        "label": "Home"
+        "href": "posts",
+        "label": "Blog"
       },
       {
         "href": "about",
         "label": "About"
-      },
-      {
-        "href": "posts",
-        "label": "Blog"
       }
     ]
   },
