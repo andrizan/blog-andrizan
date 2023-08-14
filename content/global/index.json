@@ -10,7 +10,7 @@
     "nav": [
       {
         "href": "posts",
-        "label": "Blog"
+        "label": "post"
       },
       {
         "href": "about",
