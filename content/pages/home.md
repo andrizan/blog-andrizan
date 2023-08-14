@@ -1,7 +1,7 @@
 ---
-title: Tina Cloud Starter
+title: andrizan
 blocks:
-  - headline: Welcome to the Tina Starter
+  - headline: Selamat datang
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -22,7 +22,7 @@ blocks:
       alt: >-
         Photo of palm trees at sunset by Adam Birkett -
         unsplash.com/photos/75EFpyXu3Wg
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
@@ -56,6 +56,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
